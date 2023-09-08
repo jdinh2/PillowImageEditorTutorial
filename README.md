@@ -5,10 +5,10 @@
 <h1> Pillow Image Editor Tutorial </h1>
  In this tutorial, we will cover:
 
-Opening an image
-Applying basic operations (rotate, resize, and crop)
-Applying filters
-Saving the edited image
+- Opening an image
+- Applying basic operations (rotate, resize, and crop)
+- Applying filters
+- Saving the edited image
 
 <h2> Prerequisites </h2>
 
